@@ -1,4 +1,6 @@
-﻿namespace GA_GitHubBasics_WCram;
+﻿using System;
+
+namespace GA_GitHubBasics_WCram;
 
 class Program
 {
@@ -6,5 +8,6 @@ class Program
     {
         Console.WriteLine("Hello, Alby!");
         Console.WriteLine("Welcome to class");
+        Console.WriteLine("I hope you enjoy your time here!");
     }
 }
